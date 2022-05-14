@@ -1,0 +1,9 @@
+C:\Users\NOVIN\Documents\Visual Studio 2017\Projects\persian_message\persian_message\bin\Debug\persian_message.pdb
+C:\Users\NOVIN\Documents\Visual Studio 2017\Projects\persian_message\persian_message\obj\Debug\persian_message.csprojResolveAssemblyReference.cache
+C:\Users\NOVIN\Documents\Visual Studio 2017\Projects\persian_message\persian_message\obj\Debug\persian_message.message.resources
+C:\Users\NOVIN\Documents\Visual Studio 2017\Projects\persian_message\persian_message\obj\Debug\persian_message.Properties.Resources.resources
+C:\Users\NOVIN\Documents\Visual Studio 2017\Projects\persian_message\persian_message\obj\Debug\persian_message.csproj.GenerateResource.Cache
+C:\Users\NOVIN\Documents\Visual Studio 2017\Projects\persian_message\persian_message\obj\Debug\persian_message.pdb
+C:\Users\NOVIN\Documents\Visual Studio 2017\Projects\persian_message\persian_message\bin\Debug\persian_message.dll.config
+C:\Users\NOVIN\Documents\Visual Studio 2017\Projects\persian_message\persian_message\bin\Debug\persian_message.dll
+C:\Users\NOVIN\Documents\Visual Studio 2017\Projects\persian_message\persian_message\obj\Debug\persian_message.dll
